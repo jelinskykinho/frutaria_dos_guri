@@ -1,0 +1,90 @@
+*{
+ margin: 0;
+padding: 0;
+}
+body{
+     font-family: 'Poppins', sans-serif;
+
+}
+
+.cabeçalho {
+     background-color:#013b86;
+color: rgb(81, 255, 0);
+display:flex;
+justify-content: space-around;
+align-items: center;
+padding: 34px 0;
+}
+.cabeçalho-imagens{
+     width: 25%;
+
+}
+.cabeçalho-lista-item{
+     display: inline-block;
+     margin: 0 16px;
+     font-size: 24px;
+
+}
+
+.frutaria-imagem{
+     width: 25%;
+}
+
+.frutas{
+     background-image: linear-gradient(#013b86,#7cbde9);
+     color:white;
+     display:flex;
+     justify-content: center;
+     align-items: center;
+     padding: 24px 0;
+
+     
+}
+
+ .frutaria-div-conteudo{
+     width: 35%;
+ }        
+
+ .frutaria-titulo{
+     padding: 24px 0
+ }
+   
+   .funcionario-imagem{
+     width: 150px;
+   }
+
+   .funcionario-icone{
+     width: 24px;
+   }
+
+   .funcionario-div{
+     text-align: center;
+   }
+
+   .funcionario-titulo{
+     text-align: center;
+     padding: 50px 0;
+   }
+
+   .funcionario-todos{
+     display: flex;
+     justify-content: space-around;
+    padding: 34px 0;
+   }
+
+   .rodape{
+     background-color: #013b86;
+     text-align: center;
+   }
+
+   .rodape-imagem{
+     height: 150px;
+     padding: 30px 0;
+
+   }
+     
+
+   
+
+
+
